@@ -1,3 +1,4 @@
++ [Старый конфигуратор конфигуратор для Windows](https://drive.google.com/file/d/1tv3F4wLMkeg8ea7QWyHWhwqJ52Dd7Xz9/view?usp=sharing)
 ###### Батарейки
 + Холл: CR1220
 + Лицей: CR2032
